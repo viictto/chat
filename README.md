@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: chat refoço escolar </h1>
+<h1 align="center"> chat refoço escolar </h1>
 
 ## :memo: Descrição
 Projeto criado para a matéria de Códigos de Alta Performance Web. Site para ajudar a criançar tirar duvidas em suas atividades escolares.
